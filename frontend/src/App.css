@@ -1,0 +1,93 @@
+.loginPage{
+  background: url('../public/images/background.jpg');
+  background: linear-gradient(rgba(11,11,11,0.3), rgba(10,10,10,0.3),url('../public/images/background.jpg'));
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  color:white;
+  }
+  
+  .loginform{
+    background-color: rgba(28, 5, 120, 0.559);
+    color: white;
+  }
+  .attendance-card {
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .attendance-card .card-header {
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+
+  .table {
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  .table th, .table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+
+  .table th {
+    background-color: #f4f4f4;
+  }
+
+  label {
+    margin-top: 10px;
+    display: block;
+  }
+
+  input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+  }
+
+  .btn-success {
+    margin-top: 10px;
+    display: block;
+    width: 100%;
+  }
+  .dashboard-container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+ 
+
+  .main-content {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+  }
+
+  .dashboard-title {
+    font-size: 24px;
+    color: #333;
+  }
+
+  .student-details-card {
+    border: none;
+    border-radius: 10px;
+  }
+
+  .student-details-card .card-header {
+    background-color: #007bff;
+    color: white;
+  }
+
+  .student-details-card .card-footer {
+    background-color: #f8f9fa;
+    font-size: 14px;
+    color: #777;
+  }
