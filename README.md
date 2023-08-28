@@ -18,7 +18,7 @@ The Attendance System is a web application designed to track attendance records 
 
 - Frontend: React js 
 - Backend: Node js
-- Database: MySQl
+- Database: MySQL
 
 ## Video Demo
 https://www.loom.com/share/83a08afcfef341348e3baef3eef161a3?sid=3b0e04a9-bc36-4d05-a6ef-d4a7a637add3 
