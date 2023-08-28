@@ -5,7 +5,7 @@ The Attendance System is a web application designed to manage and track attendan
 
 ### Admin Section
 - **Login**: Admin can log in using their credentials to access the admin panel.
-- **Dashboard**: A dashboard displaying an overview of attendance statistics and relevant information.
+- **Dashboard**: A dashboard displaying an overview of attendance.
 - **Student Management**: Admin can perform CRUD operations (Create, Read, Update, Delete) on student details.
 - **Attendance Management**: Admin can view attendance records for all students.
 
@@ -19,7 +19,7 @@ The Attendance System is a web application designed to manage and track attendan
 - Frontend: React js 
 - Backend: Node js
 - Database: MySQl
-- 
+
 ## Video Demo
 https://www.loom.com/share/83a08afcfef341348e3baef3eef161a3?sid=3b0e04a9-bc36-4d05-a6ef-d4a7a637add3 
 
