@@ -1,5 +1,5 @@
 # Attendance System
-The Attendance System is a web application designed to manage and track attendance records for students. It provides separate sections for administrators and students, each with their own functionalities.
+The Attendance System is a web application designed to track attendance records for students. It provides separate sections for administrators and students, each with their own functionalities.
 
 ## Features
 
